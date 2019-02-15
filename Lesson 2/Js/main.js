@@ -54,8 +54,7 @@ while (y < 8) {
 
 console.log('Задание №8');
 let arg1 = 2,
-arg2 = 4,
-arg3;
+arg2 = 4;
 function funk() {
   console.log('Число '+arg1+' в степени '+arg2+'.');
   console.log('Результат '+arg3());
